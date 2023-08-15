@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357735081355",
+    "project_id": "chat-jk-63735",
+    "storage_bucket": "chat-jk-63735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357735081355:android:ca5896fbea05d684bcfb8e",
+        "android_client_info": {
+          "package_name": "com.orkojr.orko_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357735081355-mia21olak23297fp8mgjhmglgb9pt172.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HYu1B7gzq61ZgSuPNJekyrvi1Ps-kls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357735081355-mia21olak23297fp8mgjhmglgb9pt172.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
